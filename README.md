@@ -29,7 +29,7 @@ Visit **http://localhost:3000/** in your browser.
 
 ## 🎯 Usage
 
-1. **Search for a city** - Type any city name (e.g., "London", "Tokyo", "Paris")
+1. **Search for a city** - Type any city name (e.g., "Delhi", "Bengaluru", "Paris")
 2. **View current weather** - See temperature, conditions, humidity, wind speed
 3. **Check forecast** - View 5-day weather predictions
 4. **Refresh data** - Click refresh to get latest weather
@@ -46,17 +46,6 @@ Visit **http://localhost:3000/** in your browser.
 
 ---
 
-## 🌐 API
-
-This app uses **[Open-Meteo](https://open-meteo.com/)** - a free weather API:
-
-- ✅ No API key needed
-- ✅ No registration required
-- ✅ 10,000 calls/day
-- ✅ Global coverage
-- ✅ Free forever
-
----
 
 ## � Project Structure
 

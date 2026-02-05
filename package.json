@@ -9,7 +9,7 @@
     "test:coverage": "vitest run --coverage",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview":  "vite preview"
   },
   "keywords": [
     "vue",

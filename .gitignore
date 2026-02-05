@@ -9,7 +9,6 @@ pnpm-debug.log*
 dist/
 build/
 *.local
-
 # Testing
 coverage/
 .nyc_output/

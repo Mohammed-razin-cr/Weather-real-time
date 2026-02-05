@@ -126,7 +126,6 @@ const WeatherDashboardComponent = {
                 <div class="error-icon">⚠️</div>
                 <h2>{{ error }}</h2>
             </div>
-
             <!-- Weather Data State -->
             <div v-else-if="currentWeather" class="current-weather" data-testid="weather-state">
                 <div class="location">{{ currentWeather.city }}, {{ currentWeather.country }}</div>

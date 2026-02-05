@@ -25,7 +25,6 @@ const enhancedStyles = `
             inset 0 0 30px rgba(255, 255, 255, 0.5);
     }
 }
-
 @keyframes fadeInOut {
     0%, 100% { opacity: 0.5; }
     50% { opacity: 1; }
