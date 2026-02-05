@@ -6,18 +6,6 @@ A beautiful, modern weather dashboard built with Vue.js that provides real-time 
 ![API](https://img.shields.io/badge/API-Open--Meteo-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
----
-
-## ✨ Features
-
-- 🌍 **Search any city worldwide** - Get weather for 10,000+ cities
-- 🌡️ **Real-time weather data** - Current temperature, humidity, wind speed
-- 📅 **5-day forecast** - Accurate weather predictions
-- 🎨 **Beautiful UI** - Modern design with 3D animations
-- 📱 **Responsive** - Works on desktop and mobile
-- ⚡ **Fast & Free** - No API key needed, completely free!
-
----
 
 ## 🚀 Quick Start
 
