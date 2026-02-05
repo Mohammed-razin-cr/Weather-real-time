@@ -1,6 +1,4 @@
-/* Weather Dashboard Enhancements */
 
-/* Additional CSS for 3D Loader, Particles, and Waves */
 const enhancedStyles = `
 /* 3D Loader Animations */
 @keyframes rotate3d {

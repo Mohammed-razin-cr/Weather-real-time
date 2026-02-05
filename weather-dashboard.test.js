@@ -112,6 +112,7 @@ describe('Helper Functions', () => {
     });
 });
 
+
 const WeatherDashboardComponent = {
     template: `
         <div class="weather-dashboard">
